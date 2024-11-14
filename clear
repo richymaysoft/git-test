@@ -1,0 +1,53 @@
+[33mcommit 0d867dd2aae4c8478f44034c1c69b4ef51fd3830[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/fix-html-codes[m[33m, [m[1;32mfix-html-codes[m[33m)[m
+Author: Eghobamien Richard Imafidon <richymaysoft@gmail.com>
+Date:   Thu Nov 14 05:46:24 2024 -0800
+
+    correct html on fix-html branch
+
+[33mcommit 7bdd149211f0138f0fdc85e8b937a5add7636b47[m
+Author: Eghobamien Richard Imafidon <richymaysoft@gmail.com>
+Date:   Thu Nov 14 05:34:33 2024 -0800
+
+    add nothing to note
+
+[33mcommit c92de1a116835423f14114faa78f56424468ac51[m[33m ([m[1;31morigin/fix-bug[m[33m, [m[1;32mfix-bug[m[33m)[m
+Author: Eghobamien Richard Imafidon <richymaysoft@gmail.com>
+Date:   Thu Nov 14 05:29:50 2024 -0800
+
+    Undo correction
+
+[33mcommit f6d2361fb665d30d42d2a000dc5639f93ce74b78[m
+Author: Eghobamien Richard Imafidon <richymaysoft@gmail.com>
+Date:   Fri Nov 8 07:01:05 2024 -0800
+
+    sfushfhsd
+
+[33mcommit 24d680466e8f639e78ddff604b819e4a00b5b3ab[m
+Author: Eghobamien Richard Imafidon <richymaysoft@gmail.com>
+Date:   Fri Nov 8 06:57:22 2024 -0800
+
+    sifusf
+
+[33mcommit 86553679da8dd8d2bdbd5737e5cb7cbbcbb0d46e[m
+Author: Eghobamien Richard Imafidon <richymaysoft@gmail.com>
+Date:   Fri Nov 8 06:55:25 2024 -0800
+
+    liitle changes
+
+[33mcommit a3e366a717918d601e4391f65ea3cbdc056bda4c[m
+Author: Eghobamien Richard Imafidon <richymaysoft@gmail.com>
+Date:   Fri Nov 8 06:52:35 2024 -0800
+
+    addd note to gitignore
+
+[33mcommit 3b74d0c006b94ea21adf73c56b05109ba9767df5[m
+Author: Eghobamien Richard Imafidon <richymaysoft@gmail.com>
+Date:   Fri Nov 8 06:47:14 2024 -0800
+
+    add gitignore file
+
+[33mcommit 37f55dc8249f1fbd6b70b2bee1beb74b24c0c4cd[m
+Author: Eghobamien Richard Imafidon <richymaysoft@gmail.com>
+Date:   Mon Oct 28 08:18:42 2024 -0700
+
+    create test commit for hidden folders
